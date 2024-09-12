@@ -1,4 +1,15 @@
 {
+  "name": "demo-codespaces",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "demo-codespaces",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "dependencies": {
     "prompt-sync": "^4.2.0"
   }

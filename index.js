@@ -1,5 +1,7 @@
-// Crie um programa que receba um nome e imprima a mensagem “Bem vindo [nome]”
-const prompt = require('prompt-sync')();
+import promptSync from 'prompt-sync';
+
+// Inicialize o prompt
+const prompt = promptSync();
 
 // Entrada
 const valor = prompt("Digite: ");
